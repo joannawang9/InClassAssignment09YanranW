@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "567295599706",
+    "firebase_url": "https://dailylyrics-25ca4.firebaseio.com",
+    "project_id": "dailylyrics-25ca4",
+    "storage_bucket": "dailylyrics-25ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567295599706:android:1e7471fe6d527d45",
+        "android_client_info": {
+          "package_name": "com.example.android.inclassassignment09_yanranw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567295599706-rdcnplkklh24o0sfnud5qcfvbrfbbh46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjbQc5LYhq9JVSXIy2lhm00nq7NzM-nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567295599706:android:f4c844ffa6f323f5",
+        "android_client_info": {
+          "package_name": "com.example.android.takehomeassignment08_yanranw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567295599706-rdcnplkklh24o0sfnud5qcfvbrfbbh46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjbQc5LYhq9JVSXIy2lhm00nq7NzM-nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
